@@ -1,1 +1,1 @@
-# codsoft_landing-page
+Landing page using HTML,CSS,JavaScript
